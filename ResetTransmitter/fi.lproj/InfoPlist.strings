@@ -1,3 +1,9 @@
+/* Bundle display name */
+"CFBundleDisplayName" = "Nollaa";
+
+/* Bundle name */
+"CFBundleName" = "NollaaLähetin";
+
 /* Privacy - Bluetooth Always Usage Description */
 "NSBluetoothAlwaysUsageDescription" = "Bluetoothia käytetään kommunikointiin glukoosinseurantalaitteiden kanssa.";
 
