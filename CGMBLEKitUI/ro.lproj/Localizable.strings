@@ -15,13 +15,13 @@ Title text for the button to remove a CGM from Loop */
 "Delete CGM" = "Șterge CGM";
 
 /* Title describing glucose value */
-"Glucose" = "Glucoză";
+"Glucose" = "Glicemie";
 
 /* Describes a glucose value adjusted to reflect a recent calibration */
-"Glucose (Adjusted)" = "Glucoză (ajustată)";
+"Glucose (Adjusted)" = "Glicemie (ajustată)";
 
 /* Section title for latest glucose calibration */
-"Latest Calibration" = "Cea mai recentă calibrare";
+"Latest Calibration" = "Ultima calibrare";
 
 /* Section title for latest connection date */
 "Latest Connection" = "Ultima conexiune";
@@ -33,7 +33,7 @@ Title text for the button to remove a CGM from Loop */
 "Open App" = "Deschide aplicația";
 
 /* Section title for remote data synchronization */
-"Remote Data Synchronization" = "Sincronizarea datelor la distanta";
+"Remote Data Synchronization" = "Sincronizarea datelor";
 
 /* Title describing sensor session age */
 "Session Age" = "Vechime sesiune";
