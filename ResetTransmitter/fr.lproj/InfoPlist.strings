@@ -1,12 +1,12 @@
 /* Bundle display name */
-"CFBundleDisplayName" = "Reset";
+"CFBundleDisplayName" = "Réinitialiser";
 
 /* Bundle name */
 "CFBundleName" = "ResetTransmitter";
 
 /* Privacy - Bluetooth Always Usage Description */
-"NSBluetoothAlwaysUsageDescription" = "Bluetooth is used to communicate with continuous glucose monitor devices";
+"NSBluetoothAlwaysUsageDescription" = "Le bluetooth est utilisé pour communiquer avec les dispositifs de surveillance continue de la glycémie";
 
 /* Privacy - Bluetooth Peripheral Usage Description */
-"NSBluetoothPeripheralUsageDescription" = "Bluetooth is used to communicate with continuous glucose monitor devices";
+"NSBluetoothPeripheralUsageDescription" = "Le bluetooth est utilisé pour communiquer avec les dispositifs de surveillance continue de la glycémie";
 
